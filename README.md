@@ -1,4 +1,4 @@
-# Courier Management System using PHP/MySQLi
+# Courier Management System using PHP/MySQL
 
 ## About
 The **Courier Management System** is a simple PHP/MySQLi project designed to help courier companies or businesses manage customer parcel details efficiently. The system includes features to store branch information, track parcels, and monitor movement. It offers two user roles: **Admin user** and **Branch Staff user**. Admin users manage all data in the system, including branches and branch staff, while branch users can track parcels and manage parcels specific to their branch.
